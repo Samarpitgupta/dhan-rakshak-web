@@ -11,13 +11,13 @@
 ## 🌟 Key Features
 
 ### 📊 Comprehensive Dashboard
-![Dashboard Mockup](/screenshots/dashboard_mockup_1767538212929.png)
+![Dashboard Mockup](screenshots/dashboard_mockup.png)
 - **Net Worth Tracking**: Real-time calculation of your total wealth.
 - **Activity Feed**: Recent transactions and portfolio changes.
 - **Asset Allocation**: Visual breakdown of your portfolio (Equity, Debt, Gold).
 
 ### 📈 Smart Portfolio Management
-![Portfolio Mockup](/screenshots/portfolio_mockup_1767538259336.png)
+![Portfolio Mockup](screenshots/portfolio_mockup.png)
 - **Live Market Data**: Real-time prices for **Stocks (NSE/BSE)** via Yahoo Finance and **Crypto** via CoinGecko.
 - **Mutual Funds**: Daily NAV updates directly from AMFI.
 - **Multi-Asset Support**: Track Stocks, Mutual Funds, Gold, Crypto, EPF, and PPF.
@@ -29,7 +29,7 @@
 - **🔒 Privacy**: Parsing happens entirely in your browser. No financial data is sent to our servers during import.
 
 ### 💳 Transactions & Budgeting
-![Transactions Mockup](/screenshots/transactions_mockup_1767538282666.png)
+![Transactions Mockup](screenshots/transactions_mockup.png)
 - **Smart Categorization**: Tag income and expenses.
 - **Recurring Transactions**: Set up subscriptions and bills.
 - **Budget Tracking**: Monitor spending against monthly limits.
@@ -40,7 +40,7 @@
 - **Offline First**: Works perfectly without internet; syncs when you go online.
 
 ### 🤖 AI Insights
-![Insights Mockup](/screenshots/insights_mockup_1767538308808.png)
+![Insights Mockup](screenshots/insights_mockup.png)
 - **Risk Analysis**: AI-powered assessment of your portfolio diversification.
 - **Financial Advice**: Personalized tips based on your spending and saving patterns.
 
